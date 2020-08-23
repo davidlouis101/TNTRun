@@ -6,5 +6,5 @@ author: BeckenPlayZMCPE
 commands:
     tr:
         usage: /tr addarena
-        description: All Commands
+        description: §9§lTNTRun
         permission: TNTRun.command
